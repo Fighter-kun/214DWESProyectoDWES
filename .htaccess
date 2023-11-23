@@ -1,5 +1,5 @@
 Options -Indexes
-DirectoryIndex index.php index.html
+DirectoryIndex indexProyectoDWES.html index.php index.html
 ErrorDocument 403 /214DWESProyectoDWES/errors/403.html
 ErrorDocument 404 /214DWESProyectoDWES/errors/404.html
 Redirect 301 /google https://www.google.es
